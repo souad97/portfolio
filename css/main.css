@@ -3684,6 +3684,12 @@ Created using IcoMoon - icomoon.io
 .section-full-page .footer .copyright a {
   color: #FFFFFF; }
 
+
+#dialux .row{
+  padding-left: 15%;
+  margin: 5%;
+
+}
 .login-page .card-login {
   border-radius: 0.25rem;
   padding-bottom: 0.7rem;
